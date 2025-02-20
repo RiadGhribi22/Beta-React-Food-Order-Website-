@@ -1,0 +1,180 @@
+#header {
+	position: absolute;
+	width: 1920px;
+	height: 160px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_15 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 160px;
+	left: 0px;
+	top: 0px;
+}
+#Logo {
+	position: absolute;
+	width: 168px;
+	height: 66px;
+	left: 59px;
+	top: 52px;
+	overflow: visible;
+	cursor: pointer;
+
+}
+#Ellipse_2 {
+	fill: rgba(255,144,65,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+#M {
+	left: 10px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial, Helvetica,Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(255,255,255,1);
+}
+#eals {
+	left: 67px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial, Helvetica,Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+#section {
+	position: absolute;
+	width: 651px;
+	height: 40px;
+	left: 729px;
+	top: 73px;
+	overflow: visible;
+}
+#Featured {
+	left: 491px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica, Helvetica,Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	cursor: pointer;
+	color: rgba(0,0,0,1);
+}
+#Featured:hover{
+	color: rgba(255,144,65,1);
+	border-bottom: 3px solid  rgba(255,144,65,1);
+}
+  
+#About_Us {
+	left: 206px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica, Helvetica,Arial;
+	font-style: normal;
+	font-weight: normal;
+	cursor: pointer;
+
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#About_Us:hover{
+	color: rgba(255,144,65,1);
+	border-bottom: 3px solid  rgba(255,144,65,1);
+}
+
+#Home {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica, Helvetica,Arial;
+	font-style: normal;
+	font-weight: normal;
+	cursor: pointer;
+
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Home:hover{
+	color: rgba(255,144,65,1);
+	border-bottom: 3px solid  rgba(255,144,65,1);
+}
+
+#button_contact {
+	position: absolute;
+	width: 226px;
+	height: 77px;
+	left: 1649px;
+	top: 47px;
+	overflow: visible;
+}
+#Rectangle_16 {
+	fill: rgba(255,144,65,1);
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#Contact {
+	left: 0px;
+	top: 0px;
+	padding: 20px 30px;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica, Helvetica,Arial;
+	font-style: normal;
+	font-weight: normal;
+	border-radius: 60px;
+	font-size: 40px;
+	cursor: pointer;
+	color: rgba(255,255,255,1);
+	background-color: rgba(255,144,65,1);
+	border: 6px solid rgba(255,144,65,1);
+
+}
+#Contact:hover{
+	color: rgba(255,144,65,1);
+    background-color: white;
+}
